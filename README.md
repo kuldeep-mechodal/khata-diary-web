@@ -1,0 +1,1 @@
+# khata-diary-web
